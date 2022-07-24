@@ -1,4 +1,5 @@
 # GraduationProject
+Request and Response
 •	http://localhost:4444/customer/create => The customer's first and last name are entered in JSON format. Explanation = "Customer Created".
 •	http://localhost:4444/customer/get => list of customers 
 •	http://localhost:4444/customer/get/{id} =>The customer list is fetched by the customer number.
